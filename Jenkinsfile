@@ -38,8 +38,8 @@ pipeline {
 			gitTool: 'Default', 
 			submoduleCfg: [], 
 			userRemoteConfigs: [[
-				credentialsId: 'GitHub_yucaci24', 
-				url:'https://github.com/yucaci24/PC_MultiProjectGradle'
+				credentialsId: 'GitHub_FelipeCristancho', 
+				url:'https://github.com/FelipeCristancho/Estacionamiento'
 			]]
 		])        
       }
